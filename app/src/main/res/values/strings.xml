@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VitalsDiary</string>
+    <string name="empty_state">No cases yet. Tap + to start tracking something.</string>
+
+    <string name="new_case_title">New case</string>
+    <string name="new_case_hint">e.g. Persistent cough</string>
+    <string name="action_create">Create</string>
+
+    <string name="upgrade_title">Free plan limit reached</string>
+    <string name="upgrade_body">The free plan tracks %1$d case at a time. Upgrade to Premium to track unlimited cases.</string>
+    <string name="upgrade_action">Go to Settings</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_export">Export PDF</string>
+
+    <string name="trend_format">Trend: %1$s</string>
+    <string name="trend_improving">Improving</string>
+    <string name="trend_worsening">Worsening</string>
+    <string name="trend_stable">Stable</string>
+    <string name="trend_insufficient">Not enough entries yet</string>
+
+    <string name="add_entry_title">Add entry</string>
+    <string name="severity_label">How severe today?</string>
+    <string name="severity_format">%1$d / 10</string>
+    <string name="note_hint">Notes (optional)</string>
+    <string name="add_photo">Add photo</string>
+    <string name="record_voice_note">Record voice note</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="play_recording">Play recording</string>
+    <string name="save_entry">Save entry</string>
+    <string name="tag_photo">📷 Photo</string>
+    <string name="tag_voice">🎙 Voice note</string>
+
+    <string name="permission_denied">Permission denied</string>
+    <string name="camera_unavailable">Camera is not available</string>
+    <string name="mic_unavailable">Microphone is not available</string>
+    <string name="playback_failed">Could not play the recording</string>
+    <string name="export_failed">Could not create the PDF</string>
+    <string name="export_chooser_title">Share timeline PDF</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="premium_label">Premium</string>
+    <string name="premium_description">Demo toggle for this build. In a store release this is set automatically from a verified Google Play purchase, not a switch.</string>
+    <string name="privacy_heading">Your privacy</string>
+    <string name="privacy_body">VitalsDiary has no internet access. Photos, voice notes and case details are stored only on this device and are never uploaded anywhere.</string>
+
+    <string name="disclaimer_title">Before you start</string>
+    <string name="disclaimer_body">VitalsDiary helps you organize symptoms, photos and voice notes over time so you can share a clear record with a doctor. It does not diagnose, predict, or assess any medical condition. Always consult a licensed healthcare professional for medical advice.</string>
+    <string name="disclaimer_accept">I understand</string>
+</resources>
